@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GlobalX.Coding.Assessment": {
+      "commandName": "Project",
+      "commandLineArgs": "--p D:\\globalX\\unsorted-names-list.txt"
+    }
+  }
+}
